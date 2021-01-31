@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>Material_x64d.lib;GenericShader_x64d.lib;SpacePartitioning_x64d.lib;MeshGenerator_x64d.lib;Line_x64d.lib;Model_x64d.lib;DirectXTK.lib;TinyObj_x64d.lib;ObjFile_x64d.lib;ObjFileParser_x64d.lib;Utility_x64d.lib;Camera_x64d.lib;DirectXApplication_x64d.lib;Timer_x64d.lib;WindowsApplication_x64d.lib;d3d11.lib;runtimeobject.lib;D3DCompiler.lib;gdiplus.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\Tim\Desktop\XTK\Bin\Desktop_2019_Win10\x64\Debug;C:\Program Files %28x86%29\Windows Kits\10\Lib\10.0.17763.0\um\x64;C:\Users\Tim\Documents\Visual Studio 2017\Projects\CommonLibraries\lib</AdditionalLibraryDirectories>
+    </Link>
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Tim\Documents\Visual Studio 2017\Projects\CommonLibraries\include;</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

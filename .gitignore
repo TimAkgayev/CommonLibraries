@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.lib
+*.diagsession
+lib/
+x64/
+.vs/
+tinyobjloader/

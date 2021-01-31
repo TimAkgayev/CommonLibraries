@@ -1,0 +1,3 @@
+Get the window up and running 
+Set up the joint and link classes
+Render simple joints and links
